@@ -31,3 +31,5 @@ Enjoy from the Liri development team!
 
 Video Link of the Liri App in action below:
 
+https://github.com/JWsoundsystems/liri-node-app/blob/master/Liri-App.mov
+
